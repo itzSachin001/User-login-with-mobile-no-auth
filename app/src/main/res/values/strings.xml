@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserLogin</string>
+    <string name="send_otp_to_mobile_number">Send OTP To Mobile number</string>
+    <string name="phone_number">Enter Mobile no. with country code</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
